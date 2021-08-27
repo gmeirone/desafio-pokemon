@@ -32,7 +32,7 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el jueg
      b. [The Pokémon Company](https://es.wikipedia.org/wiki/The_Pok%C3%A9mon_Company)
 Pokémon Ruby y Sapphire
 
-###Extracto de código del juego
+### Extracto de código del juego
 
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
@@ -52,6 +52,6 @@ Programadores | Teruki Murakawa
               | kohta Fukui
 Diseño del mapa | kenji Matsushima
 
-###Fin
+### Fin
 
 Felicitaciones :tada::tada::tada::tada: 

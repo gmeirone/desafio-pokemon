@@ -44,12 +44,12 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el jueg
 
 ### Producción
 
-Cargo | Responsable
-______| ___________
+|Cargo|Responsable|
+|---------|---------|
 Diseño de personjes | Ken Sugimori
 Productores | Shigeru Miyamoto
-Programadores | Teruki Murakawa
-              | kohta Fukui
+Programadores | Teruki Murakaw|
+||kohta Fukui|
 Diseño del mapa | kenji Matsushima
 
 ### Fin

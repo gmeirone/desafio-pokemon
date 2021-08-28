@@ -1,5 +1,4 @@
 # Pokémon Rojo y Pokémon Azul
----
 
 Pokémon Edición Roja y Pokémon Edición Azul (en inglés: Pokémon Red Version & Pokémon Blue Version)
 
@@ -34,8 +33,10 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el jueg
         * [The Pokémon Company](https://es.wikipedia.org/wiki/The_Pok%C3%A9mon_Company)
 1. Pokémon Ruby y Sapphire
 
+
 ### Extracto de código del juego
 
+```
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
@@ -43,6 +44,8 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el jueg
     anderson cred nesciunt sapiente ea proident.
   </div>
 </div>
+```
+
 
 ### Producción
 
